@@ -9,6 +9,7 @@ public class ser {
         int max1 = (a - (max2 * v));
         System.out.println( max1);
         System.out.println( max2);
+        System.out.println( "Hello");
         System.out.println( max1 - b);
     }
 }
