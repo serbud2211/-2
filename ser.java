@@ -7,10 +7,9 @@ public class ser {
         int v = Math.max(b,c);
         int max2 = a / v;
         int max1 = (a - (max2 * v));
-        System.out.println( max1+"fa");
+        System.out.println( max2+"fa");
         System.out.println( max2);
         System.out.println( "Hello");
-        System.out.println( max1 - c);
         System.out.println( "lastname");
     }
 }
