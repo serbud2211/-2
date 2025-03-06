@@ -10,7 +10,7 @@ public class ser {
         System.out.println( max1+"fa");
         System.out.println( max2);
         System.out.println( "Hello");
-        System.out.println( max1 - c);
+        System.out.println( max1 - b);
         System.out.println( "lastname");
     }
 }
