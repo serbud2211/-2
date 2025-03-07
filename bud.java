@@ -7,6 +7,8 @@ public class bud {
         int v = Math.max( b,c);
         int max2 = a / v;
         System.out.println( max2+"fa");
+        System.out.println( c+"fa");
+
 
     }
 }
